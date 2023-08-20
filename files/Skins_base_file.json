@@ -1,0 +1,524 @@
+{
+  "Skins": [
+    {
+      "Item Shortname": "fun.guitar",
+      "Skins": [0],
+      "api_name": "Acoustic Guitar"
+    },
+    {
+      "Item Shortname": "door.hinged.toptier",
+      "Skins": [0],
+      "api_name": "Armored Door"
+    },
+    {
+      "Item Shortname": "door.double.hinged.toptier",
+      "Skins": [0],
+      "api_name": "Armored Double Door"
+    },
+    {
+      "Item Shortname": "rifle.ak",
+      "Skins": [0],
+      "api_name": "Assault Rifle"
+    },
+    {
+      "Item Shortname": "mask.bandana",
+      "Skins": [0],
+      "api_name": "Bandana Mask"
+    },
+    {
+      "Item Shortname": "hat.cap",
+      "Skins": [0],
+      "api_name": "Baseball Cap"
+    },
+    {
+      "Item Shortname": "beachchair",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "beachparasol",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "beachtowel",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "hat.beenie",
+      "Skins": [0],
+      "api_name": "Beenie Hat"
+    },
+    {
+      "Item Shortname": "rifle.bolt",
+      "Skins": [0],
+      "api_name": "Bolt Action Rifle"
+    },
+    {
+      "Item Shortname": "bone.club",
+      "Skins": [0],
+      "api_name": "Bone Club"
+    },
+    {
+      "Item Shortname": "deer.skull.mask",
+      "Skins": [0],
+      "api_name": "Bone Helmet"
+    },
+    {
+      "Item Shortname": "knife.bone",
+      "Skins": [0],
+      "api_name": "Bone Knife"
+    },
+    {
+      "Item Shortname": "boogieboard",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "hat.boonie",
+      "Skins": [0],
+      "api_name": "Boonie Hat"
+    },
+    {
+      "Item Shortname": "shoes.boots",
+      "Skins": [0],
+      "api_name": "Boots"
+    },
+    {
+      "Item Shortname": "bucket.helmet",
+      "Skins": [0],
+      "api_name": "Bucket Helmet"
+    },
+    {
+      "Item Shortname": "burlap.headwrap",
+      "Skins": [0],
+      "api_name": "Burlap Headwrap"
+    },
+    {
+      "Item Shortname": "burlap.shirt",
+      "Skins": [0],
+      "api_name": "Burlap Shirt"
+    },
+    {
+      "Item Shortname": "burlap.shoes",
+      "Skins": [0],
+      "api_name": "Burlap Shoes"
+    },
+    {
+      "Item Shortname": "burlap.trousers",
+      "Skins": [0],
+      "api_name": "Burlap Trousers"
+    },
+    {
+      "Item Shortname": "chair",
+      "Skins": [0],
+      "api_name": "Chair"
+    },
+    {
+      "Item Shortname": "coffeecan.helmet",
+      "Skins": [0],
+      "api_name": "Coffee Can Helmet"
+    },
+    {
+      "Item Shortname": "knife.combat",
+      "Skins": [0],
+      "api_name": "Combat Knife"
+    },
+    {
+      "Item Shortname": "barricade.concrete",
+      "Skins": [0],
+      "api_name": "Concrete Barricade"
+    },
+    {
+      "Item Shortname": "crossbow",
+      "Skins": [0],
+      "api_name": "Crossbow"
+    },
+    {
+      "Item Shortname": "smg.2",
+      "Skins": [0],
+      "api_name": "Custom SMG"
+    },
+    {
+      "Item Shortname": "shotgun.double",
+      "Skins": [0],
+      "api_name": "Double Barrel Shotgun"
+    },
+    {
+      "Item Shortname": "pistol.eoka",
+      "Skins": [0],
+      "api_name": "Eoka Pistol"
+    },
+    {
+      "Item Shortname": "grenade.f1",
+      "Skins": [0],
+      "api_name": "F1 Grenade"
+    },
+    {
+      "Item Shortname": "fridge",
+      "Skins": [0],
+      "api_name": "Fridge"
+    },
+    {
+      "Item Shortname": "furnace",
+      "Skins": [0],
+      "api_name": "Furnace"
+    },
+    {
+      "Item Shortname": "wall.frame.garagedoor",
+      "Skins": [0],
+      "api_name": "Garage Door"
+    },
+    {
+      "Item Shortname": "hammer",
+      "Skins": [0],
+      "api_name": "Hammer"
+    },
+    {
+      "Item Shortname": "hatchet",
+      "Skins": [0],
+      "api_name": "Hatchet"
+    },
+    {
+      "Item Shortname": "hazmatsuit",
+      "Skins": [0],
+      "api_name": "Hazmat Suit"
+    },
+    {
+      "Item Shortname": "twitch.headset",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "attire.hide.boots",
+      "Skins": [0],
+      "api_name": "Hide Boots"
+    },
+    {
+      "Item Shortname": "attire.hide.helterneck",
+      "Skins": [0],
+      "api_name": "Hide Halterneck"
+    },
+    {
+      "Item Shortname": "attire.hide.pants",
+      "Skins": [0],
+      "api_name": "Hide Pants"
+    },
+    {
+      "Item Shortname": "attire.hide.poncho",
+      "Skins": [0],
+      "api_name": "Hide Poncho"
+    },
+    {
+      "Item Shortname": "attire.hide.skirt",
+      "Skins": [0],
+      "api_name": "Hide Skirt"
+    },
+    {
+      "Item Shortname": "attire.hide.vest",
+      "Skins": [0],
+      "api_name": "Hide Vest"
+    },
+    {
+      "Item Shortname": "hoodie",
+      "Skins": [0],
+      "api_name": "Hoodie"
+    },
+    {
+      "Item Shortname": "bow.hunting",
+      "Skins": [0],
+      "api_name": "Hunting Bow"
+    },
+    {
+      "Item Shortname": "mask.balaclava",
+      "Skins": [0],
+      "api_name": "Improvised Balaclava"
+    },
+    {
+      "Item Shortname": "innertube",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "jacket",
+      "Skins": [0],
+      "api_name": "Jacket"
+    },
+    {
+      "Item Shortname": "box.wooden.large",
+      "Skins": [0],
+      "api_name": "Large Wood Box"
+    },
+    {
+      "Item Shortname": "burlap.gloves",
+      "Skins": [0],
+      "api_name": "Leather Gloves"
+    },
+    {
+      "Item Shortname": "locker",
+      "Skins": [0],
+      "api_name": "Locker"
+    },
+    {
+      "Item Shortname": "tshirt.long",
+      "Skins": [0],
+      "api_name": "Longsleeve T-Shirt"
+    },
+    {
+      "Item Shortname": "longsword",
+      "Skins": [0],
+      "api_name": "Longsword"
+    },
+    {
+      "Item Shortname": "rifle.lr300",
+      "Skins": [0],
+      "api_name": "LR-300"
+    },
+    {
+      "Item Shortname": "lmg.m249",
+      "Skins": [0],
+      "api_name": "M249"
+    },
+    {
+      "Item Shortname": "rifle.m39",
+      "Skins": [0],
+      "api_name": "M39 Rifle"
+    },
+    {
+      "Item Shortname": "metal.plate.torso",
+      "Skins": [0],
+      "api_name": "Metal Chest Plate"
+    },
+    {
+      "Item Shortname": "metal.facemask",
+      "Skins": [0],
+      "api_name": "Metal Facemask"
+    },
+    {
+      "Item Shortname": "hat.miner",
+      "Skins": [0],
+      "api_name": "Miners Hat"
+    },
+    {
+      "Item Shortname": "smg.mp5",
+      "Skins": [0],
+      "api_name": "MP5A4"
+    },
+    {
+      "Item Shortname": "paddlingpool",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "pants",
+      "Skins": [0],
+      "api_name": "Pants"
+    },
+    {
+      "Item Shortname": "pickaxe",
+      "Skins": [0],
+      "api_name": "Pickaxe"
+    },
+    {
+      "Item Shortname": "shotgun.pump",
+      "Skins": [0],
+      "api_name": "Pump Shotgun"
+    },
+    {
+      "Item Shortname": "pistol.python",
+      "Skins": [0],
+      "api_name": "Python Revolver"
+    },
+    {
+      "Item Shortname": "target.reactive",
+      "Skins": [0],
+      "api_name": "Reactive Target"
+    },
+    {
+      "Item Shortname": "pistol.revolver",
+      "Skins": [0],
+      "api_name": "Revolver"
+    },
+    {
+      "Item Shortname": "riot.helmet",
+      "Skins": [0],
+      "api_name": "Riot Helmet"
+    },
+    {
+      "Item Shortname": "roadsign.jacket",
+      "Skins": [0],
+      "api_name": "Road Sign Jacket"
+    },
+    {
+      "Item Shortname": "roadsign.kilt",
+      "Skins": [0],
+      "api_name": "Road Sign Kilt"
+    },
+    {
+      "Item Shortname": "rock",
+      "Skins": [0],
+      "api_name": "Rock"
+    },
+    {
+      "Item Shortname": "rocket.launcher",
+      "Skins": [0],
+      "api_name": "Rocket Launcher"
+    },
+    {
+      "Item Shortname": "rug",
+      "Skins": [0],
+      "api_name": "Rug"
+    },
+    {
+      "Item Shortname": "rug.bear",
+      "Skins": [0],
+      "api_name": "Rug Bear Skin"
+    },
+    {
+      "Item Shortname": "icepick.salvaged",
+      "Skins": [0],
+      "api_name": "Salvaged Icepick"
+    },
+    {
+      "Item Shortname": "salvaged.sword",
+      "Skins": [0],
+      "api_name": "Salvaged Sword"
+    },
+    {
+      "Item Shortname": "barricade.sandbags",
+      "Skins": [0],
+      "api_name": "Sandbag Barricade"
+    },
+    {
+      "Item Shortname": "explosive.satchel",
+      "Skins": [0],
+      "api_name": "Satchel Charge"
+    },
+    {
+      "Item Shortname": "pistol.semiauto",
+      "Skins": [0],
+      "api_name": "Semi-Automatic Pistol"
+    },
+    {
+      "Item Shortname": "rifle.semiauto",
+      "Skins": [0],
+      "api_name": "Semi-Automatic Rifle"
+    },
+    {
+      "Item Shortname": "door.hinged.metal",
+      "Skins": [0],
+      "api_name": "Sheet Metal Door"
+    },
+    {
+      "Item Shortname": "door.double.hinged.metal",
+      "Skins": [0],
+      "api_name": "Sheet Metal Double Door"
+    },
+    {
+      "Item Shortname": "shirt.collared",
+      "Skins": [0],
+      "api_name": "Shirt"
+    },
+    {
+      "Item Shortname": "pants.shorts",
+      "Skins": [0],
+      "api_name": "Shorts"
+    },
+    {
+      "Item Shortname": "skullspikes",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "skull.trophy",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "sled",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "sleepingbag",
+      "Skins": [0],
+      "api_name": "Sleeping Bag"
+    },
+    {
+      "Item Shortname": "jacket.snow",
+      "Skins": [0],
+      "api_name": "Snow Jacket"
+    },
+    {
+      "Item Shortname": "stonehatchet",
+      "Skins": [0],
+      "api_name": "Stone Hatchet"
+    },
+    {
+      "Item Shortname": "stone.pickaxe",
+      "Skins": [0],
+      "api_name": "Stone Pickaxe"
+    },
+    {
+      "Item Shortname": "sunglasses",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "table",
+      "Skins": [0],
+      "api_name": "Table"
+    },
+    {
+      "Item Shortname": "shirt.tanktop",
+      "Skins": [0],
+      "api_name": "Tank Top"
+    },
+    {
+      "Item Shortname": "smg.thompson",
+      "Skins": [0],
+      "api_name": "Thompson"
+    },
+    {
+      "Item Shortname": "tshirt",
+      "Skins": [0],
+      "api_name": "T-Shirt"
+    },
+    {
+      "Item Shortname": "vending.machine",
+      "Skins": [0],
+      "api_name": "Vending Machine"
+    },
+    {
+      "Item Shortname": "gun.water",
+      "Skins": [0],
+      "api_name": ""
+    },
+    {
+      "Item Shortname": "water.purifier",
+      "Skins": [0],
+      "api_name": "Water Purifier"
+    },
+    {
+      "Item Shortname": "shotgun.waterpipe",
+      "Skins": [0],
+      "api_name": "Waterpipe Shotgun"
+    },
+    {
+      "Item Shortname": "door.double.hinged.wood",
+      "Skins": [0],
+      "api_name": "Wood Double Door"
+    },
+    {
+      "Item Shortname": "box.wooden",
+      "Skins": [0],
+      "api_name": "Wood Storage Box"
+    },
+    {
+      "Item Shortname": "door.hinged.wood",
+      "Skins": [0],
+      "api_name": "Wooden Door"
+    }
+  ]
+}
